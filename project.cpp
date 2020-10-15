@@ -40,7 +40,7 @@ void userInfo(){
 	 //	 Information validator...
 	 validator(username,password);
 }		   
-// int main(){
-//     welcomeScreen();
-// 	userInfo();
-// }
+ int main(){
+    welcomeScreen();
+	userInfo();
+}
