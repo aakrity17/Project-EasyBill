@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<string.h>
 //Global Variable Declaration
-int count = 5;
+int count = 7;
 //Function Declaration
 
 void userInfo();
